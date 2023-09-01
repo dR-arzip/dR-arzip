@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dR-arzip/profile-image.png" alt="My Profile Picture" width="200" height="200">
+  <img src="[https://github.com/dR-arzip/profile-image.png" alt="My Profile Picture](https://avatars.githubusercontent.com/u/143832744?…00&u=a2ea59e59e2318c13c0633d15f1db321c1942246&v=4)" width="200" height="200">
 </p>
 
 <h1 align="center">Hello, I'm David Initial R. 👋</h1>
